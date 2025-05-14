@@ -1,0 +1,4 @@
+run fast
+swim
+walk
+go to school
