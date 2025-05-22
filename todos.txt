@@ -2,3 +2,6 @@ run fast
 swim
 walk
 go to school
+do the laundry
+
+clean something
